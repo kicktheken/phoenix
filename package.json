@@ -9,8 +9,10 @@
     "url": "git://github.com/phoenixframework/phoenix.git"
   },
   "author": "Chris McCord <chris@chrismccord.com> (http://www.phoenixframework.org)",
+  "dependencies": {
+    "babel-brunch": "~6.0.0"
+  },
   "devDependencies": {
-    "babel-brunch": "~6.0.0",
     "brunch": "~2.6.5",
     "jsdom": "9.8.3",
     "jsdom-global": "2.1.0",
